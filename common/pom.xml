@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://apache.org"
+         xmlns:xsi="http://w3.org"
+         xsi:schemaLocation="http://apache.org http://apache.org">
+    <modelVersion>4.0.0</modelVersion>
+
+    <name>ArchiveUtil</name>
+
+    <description>
+        ArchiveUtil is a lightweight Java and Kotlin library for creating, updating, and extracting JAR, ZIP, AAR, WAR, and EAR archives through a simple, platform-independent API.
+    </description>
+    
+    <groupId>io.github.sifisofakude.archiveutil</groupId>
+    <artifactId>archiveutil-common</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0.0</version>
+    
+    <dependencies>
+        
+    </dependencies>
+    
+    <url>https://github.com/sifisofakude/archive-util</url>
+
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>http://opensource.org/licenses/mit</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Sifiso Fakude</name>
+            <email>sifisofakude404@gmail.com</email>
+            <organization>Sifiso Fakude</organization>
+            <organizationUrl>https://github.com/sifisofakude/archive-util</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://://github.com/sifisofakude/archive-util.git</connection>
+        <developerConnection>scm:git:ssh://github.com:sifisofakude/archive-util.git</developerConnection>
+        <url>https://github.com/sifisofakude/archive-util.git</url>
+    </scm>
+</project>
